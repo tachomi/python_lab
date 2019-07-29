@@ -1,3 +1,3 @@
 myStr = "Hello World"
 
-dir(myStr)
+print(dir(myStr))
