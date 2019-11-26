@@ -7,3 +7,6 @@ print(myStr.swapcase())
 print(myStr.capitalize())
 
 print(myStr.replace('Hello', 'bye').upper())
+
+
+print("Omar\nMaria Jose\nOmarcito")
